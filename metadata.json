@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Maker",
+  "description": "Universal image-to-prompt converter using Gemini VLM. Generate optimized prompts for SDXL, Midjourney, and more.",
+  "requestFramePermissions": []
+}
